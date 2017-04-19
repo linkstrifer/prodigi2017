@@ -2,7 +2,7 @@
 
 ## Cool stuff - css
 
-Empty: https://jsfiddle.net/linkstrifer/9zzLvsu4/
+Empty: [https://jsfiddle.net/linkstrifer/9zzLvsu4/](https://jsfiddle.net/linkstrifer/9zzLvsu4/)
 
 Checkbox: https://jsfiddle.net/linkstrifer/xqtjx4tr/
 
