@@ -29,3 +29,7 @@ Hamburguer menu:
 
 Simple:
 [https://jsfiddle.net/linkstrifer/4c31tayh/](https://jsfiddle.net/linkstrifer/4c31tayh/)
+
+## One last thing
+
+[https://jsfiddle.net/linkstrifer/51dpsmj3/](https://jsfiddle.net/linkstrifer/51dpsmj3/)
