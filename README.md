@@ -13,8 +13,8 @@ Text border: [https://jsfiddle.net/linkstrifer/3m8etasy/](https://jsfiddle.net/l
 ## animations – better with CSS
 
 Simple: 
-[https://jsfiddle.net/linkstrifer/e0nkvom1/](https://jsfiddle.net/linkstrifer/e0nkvom1/)
-[https://jsfiddle.net/linkstrifer/83ru0ghL/](https://jsfiddle.net/linkstrifer/83ru0ghL/)
+[https://codesandbox.io/s/objective-sun-4rwpm](https://codesandbox.io/s/objective-sun-4rwpm)
+[https://codesandbox.io/s/happy-sun-h2y4k](https://codesandbox.io/s/happy-sun-h2y4k)
 
 Advanced:
 [http://codepen.io/paulirish/pen/nkwKs](http://codepen.io/paulirish/pen/nkwKs)
@@ -28,7 +28,7 @@ Hamburguer menu:
 ## Javascript animation – do it right
 
 Simple:
-[https://jsfiddle.net/linkstrifer/4c31tayh/](https://jsfiddle.net/linkstrifer/4c31tayh/)
+[https://codesandbox.io/s/competent-browser-giq5p](https://codesandbox.io/s/competent-browser-giq5p)
 
 ## One last thing
 
